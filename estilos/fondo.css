@@ -1,0 +1,56 @@
+#bo1{
+	width: 40px;
+	height: 35px;
+	background:#282a36;
+	top: 300px;
+	z-index: 10;
+	position: absolute;
+	position: fixed;
+	border-radius: 0px 6px 6px 0px;
+	
+
+}
+#bo1:hover{
+	 padding-left: 10px;
+	 text-align:left;
+	 background:#1e1f29;
+	 
+
+}
+
+
+#bo2{
+	width: 40px;
+	height: 35px;
+	background: #282a36;
+	top: 338px;
+	z-index: 10;
+	position: absolute;
+	position: fixed;
+	border-radius: 0px 6px 6px 0px;
+}
+
+#bo2:hover{
+	 padding-left: 10px;
+	 text-align: left;
+	 background:#1e1f29;
+
+}
+
+.boto:hover{
+	color:#f6eded;
+	margin: auto;
+}
+.boto{
+	font-size: 30px;
+	text-decoration: none;
+	font-family: roster;
+	font-weight: bold;
+	text-align: center;
+	color:#f6eded;
+	
+}
+@font-face{
+	font-family: roster;
+	src: url(../font/Lobster-Regular.ttf);
+}
